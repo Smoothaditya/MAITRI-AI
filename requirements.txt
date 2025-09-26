@@ -1,0 +1,9 @@
+torch
+transformers
+opencv-python
+numpy
+sounddevice
+scipy
+torchaudio
+onnxruntime
+openai
